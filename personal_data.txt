@@ -1,0 +1,10 @@
+
+API data
+SHEETY_PRICES_ENDPOINT = "https://api.sheety.co/e3bba175d6f4f0240661cbf8feddb4b7/flightDeals/prices"
+SHEETY_TOKEN = "Bearer aslkfjwLKasdJGFfajfhqASDlkjsdwffawnbgh"
+TEQUILA_ENDPOINT = "https://api.tequila.kiwi.com"
+TEQUILA_API_KEY = "wwMKQGkwWGT9KDbLHOeqtMwX3fUJnubZ"
+SHEETY_USERS_ENDPOINT = "https://api.sheety.co/e3bba175d6f4f0240661cbf8feddb4b7/flightDeals/users"
+
+google sheet link
+https://docs.google.com/spreadsheets/d/19PKoQyPRhpIaUdxpr9YE-ZrAtSid_7GIO7MnQjFqdAc/edit#gid=0
