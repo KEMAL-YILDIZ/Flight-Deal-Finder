@@ -26,7 +26,7 @@ class Users:
                 "email": self.actual_email}
         }
 
-        sheety_response = requests.post(url=data_manager.SHEETY_USERS_ENDPOINT,
+        sheety_response = requests.post(url="data_manager.SHEETY_USERS_ENDPOINT (isn't added yet)",
                                         json=sheety_params,
                                         headers=sheety_headers)
         sheety_response.raise_for_status()
